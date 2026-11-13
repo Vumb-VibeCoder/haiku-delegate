@@ -1,1 +1,0 @@
-Meeting note: the team agreed to ship the beta on Friday. Docs are done, QA needs one more day.
